@@ -1,0 +1,15 @@
+*
+
+!*/
+!.gitignore
+!.cproject
+!.project
+!*.c
+!*.h
+!*.ioc
+!*.md
+!*.s
+!*flash.icf
+!*.ld
+!*.png
+!*.jpg
